@@ -1,0 +1,10 @@
+Trinh Thi Ngan, F0002, 19, P202867
+Nguyen Huu Quoc Hung, F0001, 13, P123456
+Ha Duy Tung, F0004, 43, P764766
+Nguyen Van A, F0001, 47, P299876
+Ly Hoang Khang, F0003, 50, P840172
+Bui Khanh Duy, F0006, 77, P917203
+Ni Hoang Khang, F0003, 99, P871928
+Tran Bao Duy, F0001, 0, P651808
+Nguyen Huu Quoc Hung, F0010, 59, P563602
+Dang Hai Cuong, F0010, 69, P409304
